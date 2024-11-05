@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFamily</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sos">In case of emergency\nkeep telling family\nmemebers to contact me</string>
+    <string name="guard">Open when you are on a\npotentionally dangerous\njourney</string>
+</resources>
